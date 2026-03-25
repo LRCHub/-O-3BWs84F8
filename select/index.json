@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "例えば、今此処に置かれた花に／164 feat.GUMI",
+  "base_artist": "164",
+  "createdAt": "2026-03-25T08:23:28.188996Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "例えば、今此処に置かれた花に feat.GUMI",
+      "artist": "164",
+      "has_synced": true,
+      "path": "select/01_例えば、今此処に置かれた花に_feat.GUMI_164.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "例えば、今此処に置かれた花に",
+      "artist": "164",
+      "has_synced": false,
+      "path": "select/02_例えば、今此処に置かれた花に_164.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "例えば、今此処に置かれた花に",
+      "artist": "ぐるたみん",
+      "has_synced": false,
+      "path": "select/pl_01_例えば、今此処に置かれた花に_ぐるたみん.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "例えば、今此処に置かれた花に feat.GUMI",
+      "artist": "ぐるたみん",
+      "has_synced": false,
+      "path": "select/pl_02_例えば、今此処に置かれた花に_feat.GUMI_ぐるたみん.txt"
+    }
+  ]
+}
